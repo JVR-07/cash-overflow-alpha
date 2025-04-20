@@ -1,0 +1,15 @@
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\bin\Debug\net8.0\chash-overflow-source.exe
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\bin\Debug\net8.0\chash-overflow-source.deps.json
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\bin\Debug\net8.0\chash-overflow-source.runtimeconfig.json
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\bin\Debug\net8.0\chash-overflow-source.dll
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\bin\Debug\net8.0\chash-overflow-source.pdb
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\obj\Debug\net8.0\chash-overflow-source.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\obj\Debug\net8.0\chash-overflow-source.AssemblyInfoInputs.cache
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\obj\Debug\net8.0\chash-overflow-source.AssemblyInfo.cs
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\obj\Debug\net8.0\chash-overflow-source.csproj.CoreCompileInputs.cache
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\obj\Debug\net8.0\chash-overflow-source.sourcelink.json
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\obj\Debug\net8.0\chash-overflow-source.dll
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\obj\Debug\net8.0\refint\chash-overflow-source.dll
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\obj\Debug\net8.0\chash-overflow-source.pdb
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\obj\Debug\net8.0\chash-overflow-source.genruntimeconfig.cache
+C:\Users\javier machado s\source\repos\cash-overflow-alpha\chash-overflow-source\obj\Debug\net8.0\ref\chash-overflow-source.dll
